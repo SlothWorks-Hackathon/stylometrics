@@ -1,4 +1,0 @@
-NB: This WIP project currently has three hidden dependencies:
-1) a copy of https://github.com/mikekestemont/wuerzb15 must be in its root folder
-2) at least two txt files must be provided anywhere within a `data/blogs` subfolder
-3) a `data/stopwords.txt` file must be provided for the language the files in 2 are in (even though it's currently unused).
